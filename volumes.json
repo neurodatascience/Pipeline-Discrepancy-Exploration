@@ -1,0 +1,77 @@
+{
+    "sub-6852929_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL": 160.0,
+        "FreeSurfer": 4302.1,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-4169074_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL": 8556.0,
+        "FreeSurfer": 4217.3,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-2345993_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL": 141.0,
+        "FreeSurfer": 4949.8,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-7492583_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL": 3625.0,
+        "FreeSurfer": 3567.0,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-9939055_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL": 3724.0,
+        "FreeSurfer": 3725.8,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-6445003_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL": 3025.0,
+        "FreeSurfer": 3419.1,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-2332918_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL": 8609.0,
+        "FreeSurfer": 3381.3,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-4806541_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL": 366.0,
+        "FreeSurfer": 4785.2,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-3737955_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL": 3503.0,
+        "FreeSurfer": 3956.3,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-2738676_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL": 473.0,
+        "FreeSurfer": 4825.3,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-1404211_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL": 4491.0,
+        "FreeSurfer": 4330.6,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-5184448_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL": 3511.0,
+        "FreeSurfer": 3610.7,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-9769696_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL": 8541.0,
+        "FreeSurfer": 4082.6,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-9125564_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL": 3683.0,
+        "FreeSurfer": 4214.4,
+        "ASHS": "TyYyYLLeeER"
+    },
+    "sub-3230637_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL": 7701.0,
+        "FreeSurfer": 3568.3,
+        "ASHS": "TyYyYLLeeER"
+    }
+}

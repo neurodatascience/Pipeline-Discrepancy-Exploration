@@ -1,0 +1,3839 @@
+{
+    "sub-6852929_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9931234_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8230395558639834
+    },
+    "sub-9939055_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8317954126021618
+    },
+    "sub-9023102_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9249727_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.771155468091088
+    },
+    "sub-2663318_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8476968796433878
+    },
+    "sub-9023102_ses-NAPEN00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8619967419129625
+    },
+    "sub-4541749_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8515723270440252
+    },
+    "sub-4317780_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.19406631762652704
+    },
+    "sub-3169275_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7492583_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8437853107344633
+    },
+    "sub-6350639_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2623146_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3195342_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4091474_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8529490258873765
+    },
+    "sub-6245599_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1984879_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6265998_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8511388286334056
+    },
+    "sub-7237992_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8201853243175558
+    },
+    "sub-3137570_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6783795556846232
+    },
+    "sub-9584420_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8371568258743889
+    },
+    "sub-6704921_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8583249749247743
+    },
+    "sub-4696223_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4538817_ses-NAPFU36_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3102543_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6743559_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5452448_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5836679_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8032300201876261
+    },
+    "sub-1404211_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8481402511253258
+    },
+    "sub-6008569_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5030375_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7927577435283555
+    },
+    "sub-6008569_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8540266328471782
+    },
+    "sub-9870694_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2864260_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4628515_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8478383_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8374054322212576
+    },
+    "sub-4351499_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8254178827275139
+    },
+    "sub-9042627_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8573667711598746
+    },
+    "sub-2332918_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4091474_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8592451287641368
+    },
+    "sub-7161471_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8752976563479132
+    },
+    "sub-6360867_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8571428571428571
+    },
+    "sub-9155520_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8442573662056524
+    },
+    "sub-3137570_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6413656454808718
+    },
+    "sub-9779747_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8468869909642283
+    },
+    "sub-9742435_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7917918_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5184448_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8566862013851891
+    },
+    "sub-7178383_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3408795_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7675438596491229
+    },
+    "sub-2345993_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7925359295317571
+    },
+    "sub-6519252_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8247666622847377
+    },
+    "sub-4541749_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.845991902834008
+    },
+    "sub-3191214_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8038238858220008
+    },
+    "sub-4806541_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4847131_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.09229191591180995
+    },
+    "sub-1322140_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9650197_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8335005015045135
+    },
+    "sub-6433158_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7816055625790139
+    },
+    "sub-1016072_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8409033877038896
+    },
+    "sub-5184448_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9053120_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8647302904564316
+    },
+    "sub-1527281_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8390419778521762
+    },
+    "sub-6519252_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8178073089700997
+    },
+    "sub-6360867_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.07358953393295176
+    },
+    "sub-3230637_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4715777_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7760229_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.841653989766284
+    },
+    "sub-3195342_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6794127_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0178055822906641
+    },
+    "sub-5158901_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1443924_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8580002400672189
+    },
+    "sub-7658420_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6865719_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8471903669724771
+    },
+    "sub-9023841_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3697357_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8351595424443107
+    },
+    "sub-1527281_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.856774526234369
+    },
+    "sub-7658420_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8822042_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.04842864502833591
+    },
+    "sub-9555827_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8289457867532155
+    },
+    "sub-1016072_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3343577_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8608309802339653
+    },
+    "sub-9155520_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8432523051131601
+    },
+    "sub-9827494_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8278295230031048
+    },
+    "sub-6690963_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3360165_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4696223_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2161762_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1626987_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8380418899171943
+    },
+    "sub-6519252_ses-NAPFU24_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8498881726088673
+    },
+    "sub-5352582_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8411373260738052
+    },
+    "sub-4169074_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5184448_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8606469002695418
+    },
+    "sub-2336041_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.01098146877144818
+    },
+    "sub-6433158_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4052945_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8036701_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8589226823012093
+    },
+    "sub-3165520_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3697357_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1443924_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8632160441935871
+    },
+    "sub-5562282_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8531755064875939
+    },
+    "sub-3475739_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2111048_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1711090_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2111048_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9748277_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8241771993492679
+    },
+    "sub-3047136_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5261010_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0007407407407407407
+    },
+    "sub-2161762_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8681318681318682
+    },
+    "sub-6865719_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5730499_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9488568_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8438338859939997
+    },
+    "sub-8822042_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7499557_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8391548081069427
+    },
+    "sub-2017146_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.05781710914454277
+    },
+    "sub-7512043_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8530954879328436
+    },
+    "sub-7672530_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8219251336898395
+    },
+    "sub-8478383_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1076159_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8300663682667079
+    },
+    "sub-6909468_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8416218344049338
+    },
+    "sub-9566680_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1784075_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3276299_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.026239067055393587
+    },
+    "sub-2823276_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8679091280097946
+    },
+    "sub-2111048_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8237579794615598
+    },
+    "sub-9555827_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8330381988363268
+    },
+    "sub-3230637_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8682522715125601
+    },
+    "sub-6187101_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8326437437580254
+    },
+    "sub-6445003_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.843667352336174
+    },
+    "sub-7863306_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8638676844783715
+    },
+    "sub-4532706_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9843864_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8427754677754677
+    },
+    "sub-9042627_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8464190981432361
+    },
+    "sub-5730499_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.815336013785181
+    },
+    "sub-9605091_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8019820_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8861538461538462
+    },
+    "sub-3705605_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1438245_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7484548825710754
+    },
+    "sub-3974587_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3531206_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8435760536180847
+    },
+    "sub-2345993_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6350639_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7550757_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.863882863340564
+    },
+    "sub-9155520_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9742435_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8445616348055373
+    },
+    "sub-5984591_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8402031063321386
+    },
+    "sub-2017146_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5984591_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8433591423466349
+    },
+    "sub-4814589_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.842178190383816
+    },
+    "sub-9742435_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9539210_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.028182469548602818
+    },
+    "sub-4365974_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8300279515506456
+    },
+    "sub-1076159_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8433373349339736
+    },
+    "sub-5730499_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4652225_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7499557_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.847363821730265
+    },
+    "sub-9690995_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8046236255990978
+    },
+    "sub-7620567_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8686425173801683
+    },
+    "sub-5160587_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8456954482059085
+    },
+    "sub-2448082_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8659531090723751
+    },
+    "sub-3756689_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8610981852024198
+    },
+    "sub-8889872_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8373126041088285
+    },
+    "sub-5817042_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8467297640909733
+    },
+    "sub-4532706_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8406042637300579
+    },
+    "sub-6690963_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8105263157894737
+    },
+    "sub-9053120_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8558205767176932
+    },
+    "sub-3408795_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6844155844155844
+    },
+    "sub-9249727_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.5253958201393287
+    },
+    "sub-5558904_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8429325801301731
+    },
+    "sub-9865768_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6445003_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.852717980486294
+    },
+    "sub-9827494_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8200702165008777
+    },
+    "sub-3017785_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7855613_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5181071_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8391974411166037
+    },
+    "sub-4101394_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8308538567320916
+    },
+    "sub-2887681_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9360002_ses-NAPBL00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8591878469179083
+    },
+    "sub-9026274_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8679096638655462
+    },
+    "sub-1176949_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8278377999158131
+    },
+    "sub-6245599_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1346022_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.851660315732172
+    },
+    "sub-8445201_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8425047438330171
+    },
+    "sub-3017785_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8526841448189763
+    },
+    "sub-9909448_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5692079_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7031414399519014
+    },
+    "sub-5692079_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6121399176954733
+    },
+    "sub-7125565_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0022182786157941437
+    },
+    "sub-7620567_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7692944912329145
+    },
+    "sub-1177880_ses-PREFU36_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8688380281690141
+    },
+    "sub-3619481_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8488084385987759
+    },
+    "sub-9023102_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8590792241177845
+    },
+    "sub-1404211_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1635604_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8490615913296325
+    },
+    "sub-6743559_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8451220910237304
+    },
+    "sub-7492583_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8350311262026033
+    },
+    "sub-5730499_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7678521_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3301724_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8485273492286115
+    },
+    "sub-2161762_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8620305980528512
+    },
+    "sub-9779747_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8420530622365485
+    },
+    "sub-9023102_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.839185393258427
+    },
+    "sub-9539210_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.022288051911412046
+    },
+    "sub-7499557_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8414598540145986
+    },
+    "sub-6519252_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8498149127445795
+    },
+    "sub-2963960_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2448082_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8629997453526865
+    },
+    "sub-7499557_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8396679772826562
+    },
+    "sub-6360867_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7492583_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8268551236749117
+    },
+    "sub-9742435_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8969699_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.20341955282770716
+    },
+    "sub-8889872_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2623146_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8066218809980806
+    },
+    "sub-9566680_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8366865547384488
+    },
+    "sub-6781586_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.863344281022419
+    },
+    "sub-2823276_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8641584158415841
+    },
+    "sub-9023102_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8019820_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8373250388802488
+    },
+    "sub-4676902_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3531206_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8581703753652506
+    },
+    "sub-4541749_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.856278801843318
+    },
+    "sub-6445003_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8521371394049237
+    },
+    "sub-5774407_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8415325847899062
+    },
+    "sub-4541749_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8426457263666566
+    },
+    "sub-3343577_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8648648648648649
+    },
+    "sub-1004359_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8656269494697443
+    },
+    "sub-4365974_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8889872_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.854169519375599
+    },
+    "sub-7237992_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.5988854489164087
+    },
+    "sub-6395760_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2843957_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8685728939607642
+    },
+    "sub-4847131_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8375547009680414
+    },
+    "sub-9930257_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.877706544090964
+    },
+    "sub-3594014_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0006793478260869565
+    },
+    "sub-6851811_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8547799271096159
+    },
+    "sub-7945015_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8413617415470125
+    },
+    "sub-5692079_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6947665308680664
+    },
+    "sub-4943065_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8275003888629647
+    },
+    "sub-9555827_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1404211_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8539402950932174
+    },
+    "sub-3360165_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5452448_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8538226299694189
+    },
+    "sub-5985051_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4052945_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8364177131526768
+    },
+    "sub-2424540_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8422161999397771
+    },
+    "sub-7243782_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8537265842965325
+    },
+    "sub-2496306_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8524188609920392
+    },
+    "sub-7819541_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.7841328413284133
+    },
+    "sub-5360989_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.691713048855906
+    },
+    "sub-1966913_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7589483687044662
+    },
+    "sub-3692881_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8651551312649165
+    },
+    "sub-9584420_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8444037656903766
+    },
+    "sub-7055352_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8509900274606157
+    },
+    "sub-2484374_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8611239060340857
+    },
+    "sub-2336041_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5985051_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7568597_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8258922513231103
+    },
+    "sub-6690963_ses-NAPFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8055213885472188
+    },
+    "sub-2738676_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8363674851820491
+    },
+    "sub-1966913_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7572327044025158
+    },
+    "sub-6519252_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8454581203303185
+    },
+    "sub-2424540_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1404211_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8562171824377165
+    },
+    "sub-8969699_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8246419135029899
+    },
+    "sub-5562282_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8432394032678191
+    },
+    "sub-4806541_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6605596_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7492583_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8342921285253262
+    },
+    "sub-1404211_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8496641186008802
+    },
+    "sub-5558904_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8636870125046429
+    },
+    "sub-1984879_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.01441635287789134
+    },
+    "sub-7237992_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.78922015362583
+    },
+    "sub-5013589_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8276302349336058
+    },
+    "sub-8969699_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9650197_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7982456140350878
+    },
+    "sub-1711090_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7672530_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8889872_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8487633463981619
+    },
+    "sub-9939055_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8465708864190837
+    },
+    "sub-7620567_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8776422273221404
+    },
+    "sub-9690995_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.762116991643454
+    },
+    "sub-1784075_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7658420_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9889544_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7243782_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8600833767587285
+    },
+    "sub-5030375_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8005939123979213
+    },
+    "sub-7492583_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8225738692059935
+    },
+    "sub-9870694_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8447249345082163
+    },
+    "sub-9690995_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8300522298111691
+    },
+    "sub-1438245_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7504537205081669
+    },
+    "sub-4715777_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3756689_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8427299703264095
+    },
+    "sub-2161762_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8736433069811068
+    },
+    "sub-3230637_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9566680_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7760229_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8503753559409785
+    },
+    "sub-1984879_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5360989_ses-PREFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7217235188509874
+    },
+    "sub-4814589_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8483663781066741
+    },
+    "sub-9360002_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7550757_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8588266809536566
+    },
+    "sub-3619481_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4040157_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1711090_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8497109826589595
+    },
+    "sub-6187101_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.853566958698373
+    },
+    "sub-6424373_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6851811_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5158901_ses-PREFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9360002_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5452448_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5352582_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8629088378566457
+    },
+    "sub-8478383_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.24786837996877628
+    },
+    "sub-9779747_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8385047642316149
+    },
+    "sub-9827494_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8355849382006324
+    },
+    "sub-3525262_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8312419974391806
+    },
+    "sub-2924615_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8744360902255639
+    },
+    "sub-6605596_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9249727_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.5919606709080393
+    },
+    "sub-5984591_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8395209580838323
+    },
+    "sub-5774407_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0021893814997263274
+    },
+    "sub-7499557_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8291962174940898
+    },
+    "sub-4498598_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8058278145695364
+    },
+    "sub-5456920_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8631174866148096
+    },
+    "sub-7917918_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8381827462991323
+    },
+    "sub-3455156_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7755697_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4135058_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5458966_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7945015_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8431535269709544
+    },
+    "sub-3408795_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7506643739252775
+    },
+    "sub-9748277_ses-NAPBL00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8206508441399559
+    },
+    "sub-6788676_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7760229_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.839372911847854
+    },
+    "sub-3137570_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6217339667458432
+    },
+    "sub-4067832_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8261943986820428
+    },
+    "sub-7658604_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5774407_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3531206_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7678521_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4317780_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8638121151367607
+    },
+    "sub-6794127_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8554650047938639
+    },
+    "sub-9865768_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8328018223234624
+    },
+    "sub-9327302_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4715777_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3169275_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4538817_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5730499_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8049903460567355
+    },
+    "sub-8389790_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8412607449856734
+    },
+    "sub-8477651_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7855613_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8519810615499627
+    },
+    "sub-6865719_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8538395660862118
+    },
+    "sub-1784075_ses-NAPFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8479601206873935
+    },
+    "sub-4437799_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.43207698476343226
+    },
+    "sub-2963960_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8534749889331562
+    },
+    "sub-1635604_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8564509619265438
+    },
+    "sub-9488568_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8496568933250156
+    },
+    "sub-9909448_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4280226_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8536458333333333
+    },
+    "sub-9769696_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7546922168263551
+    },
+    "sub-6433158_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.820040899795501
+    },
+    "sub-4541749_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8259033317691225
+    },
+    "sub-3697357_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.003303684879288437
+    },
+    "sub-4052945_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9327302_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7492583_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8383368569415081
+    },
+    "sub-1016072_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8481963927855711
+    },
+    "sub-8120729_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9053120_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8464357489064901
+    },
+    "sub-1626987_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8221545952525867
+    },
+    "sub-3531206_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8657844990548205
+    },
+    "sub-6161064_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.003595760787282362
+    },
+    "sub-9605091_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9488568_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1635604_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6445003_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6852929_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4806541_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2963960_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2137252_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8467261904761905
+    },
+    "sub-3531206_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8291384854196696
+    },
+    "sub-1177880_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8428942058230038
+    },
+    "sub-8478383_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8381464069845533
+    },
+    "sub-4715777_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9327302_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3017785_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7672530_ses-PREBL00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8205782312925171
+    },
+    "sub-7499557_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1438245_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7499557_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7863306_ses-PREEN00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0008613264427217916
+    },
+    "sub-3452929_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8073418046463868
+    },
+    "sub-3525262_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5456920_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8355656295075211
+    },
+    "sub-5181071_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7788952498839549
+    },
+    "sub-7755697_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3737955_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8544353777309819
+    },
+    "sub-4360628_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8457686529794692
+    },
+    "sub-5184448_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8480463096960926
+    },
+    "sub-9360002_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9125564_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.172698057845466
+    },
+    "sub-8019820_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8339321980940478
+    },
+    "sub-4538817_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9555827_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6852929_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.840620926650077
+    },
+    "sub-1369125_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8342125094197438
+    },
+    "sub-3137570_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6484884410195614
+    },
+    "sub-1004359_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8676844783715013
+    },
+    "sub-5360989_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7650830661614689
+    },
+    "sub-2663318_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8280542986425339
+    },
+    "sub-2017146_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2017146_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8741617_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.83655998946398
+    },
+    "sub-1404211_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8551499651243897
+    },
+    "sub-3737955_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7222222222222222
+    },
+    "sub-8822042_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4169074_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5352582_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8543506417049335
+    },
+    "sub-7855613_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5458966_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.02665589660743134
+    },
+    "sub-4360628_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8675455116133082
+    },
+    "sub-1322140_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8482224845861209
+    },
+    "sub-6794127_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8478383_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2963960_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1177880_ses-NAPEN00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4814589_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8515065531684908
+    },
+    "sub-5774407_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8156602847324497
+    },
+    "sub-2332918_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9650197_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7658604_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9360002_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8508528940078729
+    },
+    "sub-3463254_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8682658277624853
+    },
+    "sub-8889872_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8574610244988864
+    },
+    "sub-5817042_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8487370838117106
+    },
+    "sub-3737955_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2823276_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.846927966101695
+    },
+    "sub-5692079_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.3849325337331334
+    },
+    "sub-4696223_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8073447138143738
+    },
+    "sub-5458966_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8849059019331712
+    },
+    "sub-5817042_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9690995_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2823276_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8758323540932237
+    },
+    "sub-7755697_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3195342_ses-NAPFU48_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.05416116248348745
+    },
+    "sub-3756689_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9605091_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3195342_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.02459983150800337
+    },
+    "sub-3455156_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4365974_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8298361987274943
+    },
+    "sub-4718998_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8731612545101305
+    },
+    "sub-4604101_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7937126526370486
+    },
+    "sub-1369125_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6519252_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8486392277785226
+    },
+    "sub-3974587_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8256611165523996
+    },
+    "sub-5817042_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8524776373704387
+    },
+    "sub-3195342_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9360002_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8614651912032497
+    },
+    "sub-2663318_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8327192336035372
+    },
+    "sub-8822042_ses-NAPEN00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3697357_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1966913_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8184413359977163
+    },
+    "sub-4210489_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9931234_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8368248539261792
+    },
+    "sub-4437799_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4676902_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3455156_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8434830837493067
+    },
+    "sub-4317780_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.19099499722067814
+    },
+    "sub-9466302_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8806165099268548
+    },
+    "sub-2887681_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2623146_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2663318_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8418881203737411
+    },
+    "sub-2757160_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8428954423592493
+    },
+    "sub-3594014_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3047136_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8090581574884199
+    },
+    "sub-5158901_ses-PREFU24_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3692881_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3165520_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9249727_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6071068910948065
+    },
+    "sub-3301724_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8629088378566457
+    },
+    "sub-3048898_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8263423965022544
+    },
+    "sub-7945015_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8171859785783836
+    },
+    "sub-1438245_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3697357_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3475739_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9191774_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1177880_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.851972708395135
+    },
+    "sub-4317780_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5774407_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8916796_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4280226_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8384125694162264
+    },
+    "sub-9939055_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8529886914378029
+    },
+    "sub-2963960_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8596070915189267
+    },
+    "sub-3301724_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8552023906547134
+    },
+    "sub-9125564_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7495301340684125
+    },
+    "sub-2924615_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4652225_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3137570_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6072680905323558
+    },
+    "sub-6161064_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8660555131143366
+    },
+    "sub-1404211_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8528327959465684
+    },
+    "sub-7620567_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8546824542518837
+    },
+    "sub-6851811_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8476376852110707
+    },
+    "sub-8445201_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8600615384615384
+    },
+    "sub-6404099_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.84758457121458
+    },
+    "sub-9748277_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8257835300088822
+    },
+    "sub-4351499_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8170715340222788
+    },
+    "sub-3165520_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9870694_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8715400993612491
+    },
+    "sub-9650197_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8465959892706604
+    },
+    "sub-5984591_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9939055_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9748277_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8333537406636464
+    },
+    "sub-8120729_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6690963_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8298882681564246
+    },
+    "sub-9748277_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8053063802905875
+    },
+    "sub-4652225_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9191774_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.380557398805574
+    },
+    "sub-6704921_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8235445315512145
+    },
+    "sub-9191774_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8475759534583064
+    },
+    "sub-3408795_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7565982404692082
+    },
+    "sub-9555827_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9827494_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8365263599496574
+    },
+    "sub-9931234_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8212298473391354
+    },
+    "sub-3165520_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8361642369934466
+    },
+    "sub-3017785_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8278433809819764
+    },
+    "sub-9006164_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8643231114435302
+    },
+    "sub-7755697_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8228930817610063
+    },
+    "sub-6852929_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8542783865702961
+    },
+    "sub-2757160_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8568730608390666
+    },
+    "sub-4628515_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4040157_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8308084383406484
+    },
+    "sub-3619481_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9742435_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8625188847685757
+    },
+    "sub-1984879_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8265025533586486
+    },
+    "sub-7755697_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3137570_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3195342_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6690963_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3102543_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8454978680712315
+    },
+    "sub-2332918_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6743559_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1784075_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6690963_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6712772218952325
+    },
+    "sub-7620567_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.853916386352715
+    },
+    "sub-2887681_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7819541_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7822834056561424
+    },
+    "sub-1626987_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5160587_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8889872_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8596516074210452
+    },
+    "sub-1626987_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5817042_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8519988658916926
+    },
+    "sub-6445003_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8287914691943128
+    },
+    "sub-7855613_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7800511508951407
+    },
+    "sub-8036701_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4135058_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8139068419879653
+    },
+    "sub-1784075_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8466403162055336
+    },
+    "sub-5353353_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7955085865257596
+    },
+    "sub-3102543_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8600358882337862
+    },
+    "sub-7125565_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7237992_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2111048_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1284264_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9827494_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8484342379958246
+    },
+    "sub-9650197_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8193926478423016
+    },
+    "sub-7098391_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8577763699714919
+    },
+    "sub-9650197_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8383798662996461
+    },
+    "sub-3343577_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8694610778443114
+    },
+    "sub-4040157_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8039396737457679
+    },
+    "sub-1263509_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8598901098901099
+    },
+    "sub-1443924_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8555714968914395
+    },
+    "sub-4365974_ses-PREFU36_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5817042_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8621387283236994
+    },
+    "sub-4943065_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8109784462707397
+    },
+    "sub-2448082_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2424540_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.14522560335781742
+    },
+    "sub-7243782_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8438547111647232
+    },
+    "sub-6395760_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1072774_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8259097934522973
+    },
+    "sub-3195342_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9488568_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8586014851485149
+    },
+    "sub-3230637_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1784075_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.05460256100507369
+    },
+    "sub-6445003_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5219094_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8512102223860425
+    },
+    "sub-7945015_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.833618038947728
+    },
+    "sub-3084846_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6852929_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6690963_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7544424233944312
+    },
+    "sub-4396879_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1176949_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7873893461717658
+    },
+    "sub-6690963_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8001617032744913
+    },
+    "sub-5352582_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8538288554858563
+    },
+    "sub-9939055_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4498598_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7895304910955208
+    },
+    "sub-6360867_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8540992448759439
+    },
+    "sub-1016072_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1369125_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8306354191833776
+    },
+    "sub-1626987_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8076466397530278
+    },
+    "sub-9889544_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4052945_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4696223_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8161668839634941
+    },
+    "sub-4360628_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8547676029726666
+    },
+    "sub-6605596_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6781586_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8442065673369015
+    },
+    "sub-4538817_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8666118227758843
+    },
+    "sub-5985051_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4532706_ses-PREBL00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1284264_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5452448_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8430784607696152
+    },
+    "sub-4498598_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.02089205770187365
+    },
+    "sub-5774407_ses-NAPFU48_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2924615_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8781163434903048
+    },
+    "sub-3084846_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9155520_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8386308068459658
+    },
+    "sub-9748277_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8052773027119472
+    },
+    "sub-4696223_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2332918_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4210489_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4052945_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7725517725517725
+    },
+    "sub-5985051_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1076159_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8273828003725551
+    },
+    "sub-6519252_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8492052891678911
+    },
+    "sub-4360628_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8380667663178873
+    },
+    "sub-9249727_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6445888527868033
+    },
+    "sub-5692079_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6418634746036881
+    },
+    "sub-9931234_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9779747_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5558904_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8561360874848116
+    },
+    "sub-6350639_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7927232635060639
+    },
+    "sub-6445003_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9488568_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8643990929705215
+    },
+    "sub-7855613_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7333522244261831
+    },
+    "sub-5452448_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.06282196255811032
+    },
+    "sub-7512043_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8339444735463594
+    },
+    "sub-3705605_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8253004427577483
+    },
+    "sub-9023102_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.040569395017793594
+    },
+    "sub-7550757_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5730499_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8372759856630825
+    },
+    "sub-9939055_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9779747_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8451612903225807
+    },
+    "sub-7672530_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8040510788199031
+    },
+    "sub-5184448_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8446248600223965
+    },
+    "sub-6008569_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5184448_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8583949602848535
+    },
+    "sub-6690963_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8480102695763799
+    },
+    "sub-3017785_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1635604_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8552097428958051
+    },
+    "sub-4532706_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.01029490616621984
+    },
+    "sub-6187101_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8429567642956765
+    },
+    "sub-4169074_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8413744410449517
+    },
+    "sub-8478383_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6395760_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9249727_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.5188574254977124
+    },
+    "sub-5013589_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8271109997494362
+    },
+    "sub-5452448_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5219094_ses-PREFU12_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.854447792480021
+    },
+    "sub-9026274_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9566680_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7950702206936084
+    },
+    "sub-3048898_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8363150867823765
+    },
+    "sub-8916796_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4541749_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8420240666460969
+    },
+    "sub-8822042_ses-NAPFU24_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8473992421632793
+    },
+    "sub-9522570_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8507081495240306
+    },
+    "sub-3737955_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.732915547597732
+    },
+    "sub-6852929_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9006164_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8553307157958321
+    },
+    "sub-3301724_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8598464070213933
+    },
+    "sub-6424373_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1076159_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8254017787486347
+    },
+    "sub-7755697_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3619481_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8560838445807771
+    },
+    "sub-1322140_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.839072934398324
+    },
+    "sub-5692079_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7257824143070045
+    },
+    "sub-3195342_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7855613_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3692881_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8571086070486694
+    },
+    "sub-6851811_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8334483234441838
+    },
+    "sub-9023102_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.844968480037357
+    },
+    "sub-3452929_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8418546365914787
+    },
+    "sub-3737955_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8277578103400608
+    },
+    "sub-5181071_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3408795_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8442798119390227
+    },
+    "sub-2631883_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6605596_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7243782_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8540068764877017
+    },
+    "sub-6424373_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8490523465703971
+    },
+    "sub-4541749_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8456064356435643
+    },
+    "sub-4365974_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4040157_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5353353_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9779747_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5184448_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8338507220947496
+    },
+    "sub-4437799_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5181071_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8500070952178231
+    },
+    "sub-1284264_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8072880168185004
+    },
+    "sub-3191214_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2424540_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8259631239694198
+    },
+    "sub-9742435_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9566680_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2161762_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8831454495463293
+    },
+    "sub-6852929_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3360165_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9690995_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6360867_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7237992_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4498598_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8683853459972863
+    },
+    "sub-2496306_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.859192607003891
+    },
+    "sub-4360628_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8378512807759264
+    },
+    "sub-9026274_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8822042_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2111048_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8319706794474203
+    },
+    "sub-7760229_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.84931157572667
+    },
+    "sub-4806541_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9690995_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.11647727272727272
+    },
+    "sub-6245599_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8201101928374656
+    },
+    "sub-4365974_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8464102564102564
+    },
+    "sub-9748277_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8470082407739161
+    },
+    "sub-4806541_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8503271263210871
+    },
+    "sub-2757160_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8473344103392568
+    },
+    "sub-2757160_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8452316076294278
+    },
+    "sub-5219094_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8208004078511343
+    },
+    "sub-5692079_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4101394_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8319656609014013
+    },
+    "sub-5817042_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2757160_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8617354939884997
+    },
+    "sub-9769696_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3475739_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8374214224084802
+    },
+    "sub-7945015_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8355566048872625
+    },
+    "sub-3084846_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7492583_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.823082336382829
+    },
+    "sub-1784075_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7672530_ses-PREFU24_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8085046066619419
+    },
+    "sub-8916796_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8296296296296296
+    },
+    "sub-7620567_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8696599298075759
+    },
+    "sub-2111048_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7917918_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4498598_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8200901481004508
+    },
+    "sub-6519252_ses-NAPFU48_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8506606165754704
+    },
+    "sub-3463254_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8568401536220368
+    },
+    "sub-8445201_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8471321695760599
+    },
+    "sub-9327302_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.41762589928057553
+    },
+    "sub-3705605_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9191774_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.09329724566151887
+    },
+    "sub-2448082_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9931234_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8411588411588412
+    },
+    "sub-7855613_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6740068442196102
+    },
+    "sub-5160587_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3165520_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1404211_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8583148558758315
+    },
+    "sub-4538817_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9539210_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9466302_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8631857237276933
+    },
+    "sub-2345993_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.3252696006995045
+    },
+    "sub-1322140_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8261742272179847
+    },
+    "sub-1322140_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8366671082262551
+    },
+    "sub-2823276_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8652330706558033
+    },
+    "sub-7161471_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8682890115403914
+    },
+    "sub-6265998_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.819047619047619
+    },
+    "sub-4317780_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8557362375055945
+    },
+    "sub-6795892_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9742226_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8061002178649237
+    },
+    "sub-2823276_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.23977467548371295
+    },
+    "sub-9650197_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8300249769948731
+    },
+    "sub-7098391_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8254016832440704
+    },
+    "sub-5353353_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9023841_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8515603799185889
+    },
+    "sub-5030375_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7860639216815434
+    },
+    "sub-4628515_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8313686967910936
+    },
+    "sub-9605091_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4437799_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.00028901734104046245
+    },
+    "sub-3594014_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8182637428657255
+    },
+    "sub-2823276_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.859504132231405
+    },
+    "sub-3301724_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.850540134007931
+    },
+    "sub-9779747_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8555555555555555
+    },
+    "sub-2017146_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8451178451178452
+    },
+    "sub-2448082_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7755697_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8078523140925638
+    },
+    "sub-4943065_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8226527570789866
+    },
+    "sub-5836679_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8324111643919833
+    },
+    "sub-5160587_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8463333742783442
+    },
+    "sub-7672530_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8278256039988892
+    },
+    "sub-9191774_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5452448_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3692881_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8036701_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8532031726662599
+    },
+    "sub-2963960_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4135058_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7564742219054407
+    },
+    "sub-1346022_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9769696_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8429946022060549
+    },
+    "sub-5984591_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9026274_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8378870673952641
+    },
+    "sub-4329125_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8357798165137614
+    },
+    "sub-1438245_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7574212893553224
+    },
+    "sub-6445003_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9939055_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8366878292584088
+    },
+    "sub-8478383_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.02472885032537961
+    },
+    "sub-1284264_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8198825617916154
+    },
+    "sub-8889872_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8364149611856034
+    },
+    "sub-3102543_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6519252_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8581305677436512
+    },
+    "sub-4360628_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8370807687476448
+    },
+    "sub-4210489_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6008569_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3697357_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9249727_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6998189499094749
+    },
+    "sub-2111048_ses-NAPFU36_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.830225988700565
+    },
+    "sub-7606018_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8444902162718847
+    },
+    "sub-1072774_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8207378960362091
+    },
+    "sub-2963960_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.826965629148842
+    },
+    "sub-5158901_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8477651_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.1630369026013309
+    },
+    "sub-6794127_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3191214_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8005468215994532
+    },
+    "sub-8969699_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8207934336525308
+    },
+    "sub-4040157_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8270584634220998
+    },
+    "sub-5261010_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8068524550609241
+    },
+    "sub-7568597_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8340356123419872
+    },
+    "sub-6519252_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8510522000546598
+    },
+    "sub-3048898_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.828794306829068
+    },
+    "sub-7658604_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1984879_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8585090730750368
+    },
+    "sub-6404099_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8341109383100052
+    },
+    "sub-7243782_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8567578493464493
+    },
+    "sub-9155520_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8345624385447394
+    },
+    "sub-4628515_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7367862824818808
+    },
+    "sub-1076159_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8274538745387454
+    },
+    "sub-5707288_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8667170571932477
+    },
+    "sub-3048898_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8250401284109149
+    },
+    "sub-1966913_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8268223319862296
+    },
+    "sub-9026274_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8691837277319862
+    },
+    "sub-1346022_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4135058_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7606018_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8671237349004244
+    },
+    "sub-3531206_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.09782030834662414
+    },
+    "sub-2887681_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7658604_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8388425273653408
+    },
+    "sub-9939055_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9125564_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4360628_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8652446675031368
+    },
+    "sub-9909448_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8228797961206287
+    },
+    "sub-2757160_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8496559025939651
+    },
+    "sub-4365974_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8473551637279597
+    },
+    "sub-7243782_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8572177102436468
+    },
+    "sub-4351499_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8253882511816341
+    },
+    "sub-7755697_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2757160_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8552296772465515
+    },
+    "sub-5985051_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6605596_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8351740_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3360165_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9931234_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5730499_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6265998_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8411138411138411
+    },
+    "sub-7672530_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8120729_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8328961175236097
+    },
+    "sub-8822042_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.036081474296799226
+    },
+    "sub-6187101_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0003616636528028933
+    },
+    "sub-9769696_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8241231390360838
+    },
+    "sub-3137570_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8423062237495227
+    },
+    "sub-2843957_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8474111041796631
+    },
+    "sub-8741617_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8190045248868778
+    },
+    "sub-2631883_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7178383_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8496298187388307
+    },
+    "sub-3619481_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8512020792722547
+    },
+    "sub-5184448_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4715777_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8390689704412395
+    },
+    "sub-4715777_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3102543_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9327302_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1177880_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.812073719344072
+    },
+    "sub-6360867_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9827494_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8037735849056604
+    },
+    "sub-9488568_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9539210_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8237878550133375
+    },
+    "sub-6865719_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1004359_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7492583_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8231724934989887
+    },
+    "sub-5219094_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.843798250128667
+    },
+    "sub-6795892_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8030325553738665
+    },
+    "sub-1984879_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1004359_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4847131_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8011321316847907
+    },
+    "sub-2496306_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4135058_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3165520_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8500065385118347
+    },
+    "sub-9006164_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8647067877481914
+    },
+    "sub-1438245_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7484420124639003
+    },
+    "sub-9909448_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7760229_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3697357_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4604101_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8125323666494044
+    },
+    "sub-2924615_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8659082193531893
+    },
+    "sub-3452929_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8572507552870091
+    },
+    "sub-3301724_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.864231948703652
+    },
+    "sub-2336041_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9909448_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8149491005438572
+    },
+    "sub-3408795_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7499557_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8276736649288432
+    },
+    "sub-9488568_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8506336753168376
+    },
+    "sub-5360989_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.772207831784245
+    },
+    "sub-8351740_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9466302_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8548493222792473
+    },
+    "sub-1369125_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6245599_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8178059536934951
+    },
+    "sub-5184448_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8610069630423138
+    },
+    "sub-4538817_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7819541_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8025172310458496
+    },
+    "sub-3191214_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8151191454396056
+    },
+    "sub-9360002_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4676902_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8637942122186495
+    },
+    "sub-6605596_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5458966_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.02424916573971079
+    },
+    "sub-4538817_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8491891201634529
+    },
+    "sub-6424373_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3102543_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9488568_ses-NAPFU24_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8394261915779732
+    },
+    "sub-3737955_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7863306_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8671034738533812
+    },
+    "sub-7945015_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8264639505879559
+    },
+    "sub-7917918_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7995385798513202
+    },
+    "sub-3531206_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8310688405797102
+    },
+    "sub-8120729_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2424540_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2332918_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.3538083538083538
+    },
+    "sub-3137570_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5013589_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.834059504543757
+    },
+    "sub-2111048_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2017146_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.025266704098820886
+    },
+    "sub-6350639_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8132140399174123
+    },
+    "sub-9827494_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8475097929490767
+    },
+    "sub-1176949_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8436323057609151
+    },
+    "sub-6433158_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8484389208851167
+    },
+    "sub-1263509_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8520917678812415
+    },
+    "sub-3756689_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8558629185799081
+    },
+    "sub-6350639_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7669693039342845
+    },
+    "sub-9690995_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7806433721575152
+    },
+    "sub-6788676_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.02244718309859155
+    },
+    "sub-5984591_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3276299_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7491438356164384
+    },
+    "sub-5774407_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3531206_ses-NAPFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8285520668624351
+    },
+    "sub-7237992_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3360165_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.022867194371152155
+    },
+    "sub-3102543_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6350639_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8638867033831629
+    },
+    "sub-6690963_ses-NAPFU36_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7760229_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8550687062483796
+    },
+    "sub-6909468_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8533158240315167
+    },
+    "sub-4210489_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5013589_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.825178264076715
+    },
+    "sub-3047136_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8347324896629496
+    },
+    "sub-3475739_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6690963_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7808764940239044
+    },
+    "sub-3195342_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7961672473867596
+    },
+    "sub-5774407_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.832
+    },
+    "sub-6245599_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6433158_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8257488479262672
+    },
+    "sub-8478383_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3343577_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8603397142086816
+    },
+    "sub-1966913_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7410600255427842
+    },
+    "sub-4365974_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2631883_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6245599_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8355361765908161
+    },
+    "sub-9690995_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7388498494191883
+    },
+    "sub-2924615_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8477651_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8530310748853795
+    },
+    "sub-9748277_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9042627_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8608786610878661
+    },
+    "sub-5562282_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8091970627181895
+    },
+    "sub-4351499_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8306441033713761
+    },
+    "sub-5458966_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2017146_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.36099081933137017
+    },
+    "sub-6424373_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8515468506565769
+    },
+    "sub-7178383_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4365974_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9539210_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.049341495084399924
+    },
+    "sub-3137570_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8338353413654619
+    },
+    "sub-4718998_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4628515_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6795892_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8027938772477337
+    },
+    "sub-2336041_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8624568771561422
+    },
+    "sub-9191774_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8283582089552238
+    },
+    "sub-8822042_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8478116710875332
+    },
+    "sub-6187101_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8509701389844503
+    },
+    "sub-4200389_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8509059780282494
+    },
+    "sub-2631883_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8278763971071663
+    },
+    "sub-1177880_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8469881_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8715890850722311
+    },
+    "sub-6519252_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8380517912250101
+    },
+    "sub-6360867_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4200389_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8155447605829286
+    },
+    "sub-6851811_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1154932_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3343577_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.858670322138451
+    },
+    "sub-5730499_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9023102_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8524366693172782
+    },
+    "sub-4329125_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8399692544196772
+    },
+    "sub-6909468_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8655091992744234
+    },
+    "sub-3301724_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8480782669461915
+    },
+    "sub-1438245_ses-NAPFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7752100840336135
+    },
+    "sub-7855613_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8374570853557476
+    },
+    "sub-4628515_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1284264_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1404211_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8512254055919917
+    },
+    "sub-9748277_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8286189683860233
+    },
+    "sub-8120729_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2424540_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.00241028387787895
+    },
+    "sub-8120729_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1527281_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8552041992062476
+    },
+    "sub-6008569_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3692881_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7620567_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.863625450180072
+    },
+    "sub-1284264_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3017785_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8320327491364974
+    },
+    "sub-7055352_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8447152167752905
+    },
+    "sub-6445003_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4052945_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5013589_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.817449149290009
+    },
+    "sub-9155520_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8232342240622256
+    },
+    "sub-1076159_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8297682709447415
+    },
+    "sub-2738676_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3047136_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9909448_ses-PREBL00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8477157360406091
+    },
+    "sub-5458966_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8535353535353535
+    },
+    "sub-9930257_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8699207768975211
+    },
+    "sub-1076159_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8318661971830986
+    },
+    "sub-1322140_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8249109381184853
+    },
+    "sub-3165520_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5352582_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5774407_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9488568_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8415216386878176
+    },
+    "sub-7620567_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8637970979148885
+    },
+    "sub-6360867_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6433158_ses-PREBL00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8355882352941176
+    },
+    "sub-6360867_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9605091_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3619481_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.860638845955693
+    },
+    "sub-6245599_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8439339554917444
+    },
+    "sub-3455156_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2161762_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7243782_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8572959935682701
+    },
+    "sub-7606018_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8403193612774451
+    },
+    "sub-1443924_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8448214072392785
+    },
+    "sub-6350639_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1004359_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8673508171797796
+    },
+    "sub-4067832_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8323192302249894
+    },
+    "sub-7178383_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8279854032968416
+    },
+    "sub-7125565_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8598622417031935
+    },
+    "sub-4437799_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0998706338939198
+    },
+    "sub-6865719_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8342471530999578
+    },
+    "sub-6161064_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.18115015974440896
+    },
+    "sub-4943065_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8138355111452729
+    },
+    "sub-4943065_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8222842863442599
+    },
+    "sub-2336041_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7237992_ses-PREFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9249727_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3047136_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6350639_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8379263301500682
+    },
+    "sub-9909448_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8116189662537378
+    },
+    "sub-9742226_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3619481_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8524294367830906
+    },
+    "sub-3048898_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8103306914457502
+    },
+    "sub-5181071_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5458966_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7026777469990766
+    },
+    "sub-1031654_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4437799_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5817042_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8468518777048722
+    },
+    "sub-4960454_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7425660792951542
+    },
+    "sub-6781586_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8384048909267751
+    },
+    "sub-3756689_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8687640449438202
+    },
+    "sub-2137252_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8442633388513944
+    },
+    "sub-6605596_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2484374_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8645973909131804
+    },
+    "sub-8469881_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.851157377473167
+    },
+    "sub-1177880_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4396879_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2017146_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8553798688777478
+    },
+    "sub-7945015_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1438245_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7496928746928747
+    },
+    "sub-9155520_ses-NAPBL00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8451182534869618
+    },
+    "sub-2017146_ses-NAPFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9690995_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8141616928920239
+    },
+    "sub-6851811_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8670197936994704
+    },
+    "sub-5456920_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8666666666666667
+    },
+    "sub-9889544_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4498598_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7902078774617067
+    },
+    "sub-5352582_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.837991590403166
+    },
+    "sub-2424540_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4200389_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8487693839806516
+    },
+    "sub-7237992_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6245599_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8231086657496561
+    },
+    "sub-3408795_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6161064_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.11983181499649614
+    },
+    "sub-4628515_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8232793853196011
+    },
+    "sub-1635604_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9931234_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9742435_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8417019027484144
+    },
+    "sub-7492583_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8218868988859117
+    },
+    "sub-4718998_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8272527472527472
+    },
+    "sub-6704921_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5261010_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4317780_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8534163331851193
+    },
+    "sub-4351499_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8278041074249605
+    },
+    "sub-3705605_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6851811_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8503410458740136
+    },
+    "sub-3692881_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8630398472918158
+    },
+    "sub-4538817_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4169074_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9488568_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9522570_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8679377704994736
+    },
+    "sub-3191214_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8009585940620423
+    },
+    "sub-1966913_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7402896642527979
+    },
+    "sub-7568597_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.7544356642314001
+    },
+    "sub-4101394_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1443924_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8621377449254957
+    },
+    "sub-7550757_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8715220949263502
+    },
+    "sub-7550757_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9249727_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.5918501478803811
+    },
+    "sub-6865719_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8488755192665807
+    },
+    "sub-9327302_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9555827_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8435175021344067
+    },
+    "sub-7550757_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1177880_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2332918_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9360002_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8644406392694064
+    },
+    "sub-3230637_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.004138216428719222
+    },
+    "sub-9023102_ses-NAPBL00_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8457010963646855
+    },
+    "sub-4943065_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8243425995492111
+    },
+    "sub-5774407_ses-NAPFU12_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5692079_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4498598_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9690995_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.04080090668681526
+    },
+    "sub-7658604_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3408795_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5030375_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8178232286340394
+    },
+    "sub-1263509_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8544407894736842
+    },
+    "sub-1031654_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6921619293712317
+    },
+    "sub-2631883_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7945015_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8509368659744599
+    },
+    "sub-2963960_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8455520139090119
+    },
+    "sub-1177880_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3230637_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8254145186010868
+    },
+    "sub-4040157_ses-PREFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1177880_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8579745671824728
+    },
+    "sub-7178383_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8413448909902811
+    },
+    "sub-6245599_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8444141689373297
+    },
+    "sub-9555827_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1635604_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8353021045485404
+    },
+    "sub-2631883_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.834192882929345
+    },
+    "sub-9748277_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8165493812181509
+    },
+    "sub-3017785_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9843864_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8400357462019661
+    },
+    "sub-2424540_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8338323353293413
+    },
+    "sub-1016072_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8490866740223121
+    },
+    "sub-9155520_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8241379310344827
+    },
+    "sub-4498598_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9026274_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9026274_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3230637_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3165520_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3191214_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8216389930369576
+    },
+    "sub-3230637_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.6197086546700943
+    },
+    "sub-3475739_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3705605_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7835321882784844
+    },
+    "sub-7055352_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8325727324586423
+    },
+    "sub-4052945_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7924929178470255
+    },
+    "sub-1784075_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3756689_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8602250318988517
+    },
+    "sub-6187101_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6433158_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7934782608695652
+    },
+    "sub-5836679_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7900912646675359
+    },
+    "sub-4604101_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3705605_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8267689090275357
+    },
+    "sub-4960454_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7827372949717666
+    },
+    "sub-7178383_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.817379679144385
+    },
+    "sub-3408795_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8179246687509305
+    },
+    "sub-2484374_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8438906195915542
+    },
+    "sub-2161762_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7863306_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8358172489616418
+    },
+    "sub-3048898_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8393727763868758
+    },
+    "sub-8822042_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1635604_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2111048_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9650197_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8297082228116711
+    },
+    "sub-2424540_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8284960422163589
+    },
+    "sub-8889872_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8330550918196995
+    },
+    "sub-3756689_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8517641487094483
+    },
+    "sub-9584420_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8259445843828715
+    },
+    "sub-4329125_ses-PREBL00_run-001_UNIT1.nii.gz": {
+        "FSL-FreeSurfer": 0.8360198388096715
+    },
+    "sub-9865768_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8509277031349968
+    },
+    "sub-2663318_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8413793103448276
+    },
+    "sub-1284264_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.08040201005025126
+    },
+    "sub-4210489_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8649208462790353
+    },
+    "sub-9843864_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8373168851195065
+    },
+    "sub-8120729_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8120729_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8290553056364117
+    },
+    "sub-1443924_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8525141005640225
+    },
+    "sub-9939055_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5707288_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8583262273114874
+    },
+    "sub-6161064_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.011298295167961263
+    },
+    "sub-3705605_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4541749_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8544275154623624
+    },
+    "sub-1626987_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-8741617_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8534599728629579
+    },
+    "sub-5030375_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7870619946091644
+    },
+    "sub-5707288_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8691692307692308
+    },
+    "sub-5352582_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.865935620799434
+    },
+    "sub-4280226_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8331542181622783
+    },
+    "sub-6008569_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8245931283905967
+    },
+    "sub-7499557_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8410165484633569
+    },
+    "sub-3047136_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8425821064552661
+    },
+    "sub-6605596_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7672185891192431
+    },
+    "sub-2161762_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3301724_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8623526185906224
+    },
+    "sub-7237992_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.006167241066569925
+    },
+    "sub-4040157_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8282768777614139
+    },
+    "sub-9742435_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.024744819053510673
+    },
+    "sub-9769696_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8497493880405642
+    },
+    "sub-7550757_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3705605_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8210922787193974
+    },
+    "sub-5817042_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8601553829078802
+    },
+    "sub-4169074_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5984591_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1076159_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.15156073711921775
+    },
+    "sub-4135058_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6404099_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8484390735146022
+    },
+    "sub-3102543_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-6161064_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8532685173340157
+    },
+    "sub-4696223_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7878787878787878
+    },
+    "sub-4538817_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7846393357550597
+    },
+    "sub-6865719_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9769696_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1076159_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8238653441538923
+    },
+    "sub-6424373_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5458966_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3737955_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2161762_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8331570597567425
+    },
+    "sub-1369125_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9566680_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.16411997736276174
+    },
+    "sub-7760229_ses-PREFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.721736414740787
+    },
+    "sub-3974587_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3169275_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7512043_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8523684210526316
+    },
+    "sub-5181071_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8278923253150057
+    },
+    "sub-9827494_ses-PREFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8080337650996944
+    },
+    "sub-4943065_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-7855613_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9191774_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8295485636114911
+    },
+    "sub-9023102_ses-NAPFU24_run-003_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.06385037084811351
+    },
+    "sub-3276299_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.740730825859992
+    },
+    "sub-9909448_ses-PREFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8358454371060564
+    },
+    "sub-8351740_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8229270729270729
+    },
+    "sub-5458966_ses-NAPFU03_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8345267543288635
+    },
+    "sub-9909448_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.841697734442214
+    },
+    "sub-6794127_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-1626987_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3974587_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2843957_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8428821616212159
+    },
+    "sub-3360165_ses-NAPFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2887681_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-4169074_ses-NAPEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8448392174499663
+    },
+    "sub-9155520_ses-NAPFU36_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.03740157480314961
+    },
+    "sub-4169074_ses-NAPFU03_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-9779747_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8381909547738694
+    },
+    "sub-7917918_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.821486979494276
+    },
+    "sub-1154932_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5158901_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.02051129607609988
+    },
+    "sub-4091474_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-2738676_ses-PREFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8405524168236033
+    },
+    "sub-7658604_ses-NAPBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3017785_ses-NAPFU48_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.821969696969697
+    },
+    "sub-6350639_ses-NAPFU48_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.7476553341148886
+    },
+    "sub-7125565_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-5458966_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8365840801265155
+    },
+    "sub-7658420_ses-NAPFU24_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.0
+    },
+    "sub-3343577_ses-PREFU24_run-002_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8504928806133626
+    },
+    "sub-2137252_ses-PREEN00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8268829094483352
+    },
+    "sub-8469881_ses-PREBL00_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.8371227230421486
+    },
+    "sub-2663318_ses-NAPFU12_run-001_T1w.nii.gz": {
+        "FSL-FreeSurfer": 0.819087964116621
+    }
+}
